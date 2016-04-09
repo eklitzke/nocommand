@@ -1,5 +1,4 @@
-AM_CFLAGS = -std=c99 -Wall -Wextra -Wunused -D_XOPEN_SOURCE=700 -D_DEFAULT_SOURCE
-
+AM_CFLAGS = -std=c99 -Wall -Wextra -Wunused
 
 bin_PROGRAMS = nocommand
 
