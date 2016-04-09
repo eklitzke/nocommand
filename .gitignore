@@ -1,0 +1,4 @@
+src/config.h
+Makefile
+build-aux/
+aclocal.m4
